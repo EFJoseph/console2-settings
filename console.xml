@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-	<console change_refresh="10" refresh="100" rows="25" columns="80" buffer_rows="500" buffer_columns="0" shell="" init_dir="" start_hidden="0" save_size="0">
+	<console change_refresh="10" refresh="100" rows="33" columns="103" buffer_rows="500" buffer_columns="0" shell="" init_dir="" start_hidden="0" save_size="1">
 		<colors>
 			<color id="0" r="0" g="0" b="0"/>
 			<color id="1" r="0" g="0" b="128"/>
@@ -30,7 +30,7 @@
 			<selection_color r="255" g="255" b="255"/>
 		</styles>
 		<position x="-1" y="-1" dock="-1" snap="0" z_order="0" save_position="0"/>
-		<transparency type="1" active_alpha="170" inactive_alpha="92" r="0" g="0" b="0"/>
+		<transparency type="0" active_alpha="170" inactive_alpha="92" r="0" g="0" b="0"/>
 	</appearance>
 	<behavior>
 		<copy_paste copy_on_select="0" clear_on_copy="1" no_wrap="1" trim_spaces="1" copy_newline_char="0" sensitive_copy="1"/>
